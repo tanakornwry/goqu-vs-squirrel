@@ -1,0 +1,11 @@
+goos: darwin
+goarch: arm64
+pkg: go-sql-builder-bemchmark
+BenchmarkSQLBuilder-8   	   46761	     24408 ns/op	   25880 B/op	     521 allocs/op
+BenchmarkSQLBuilder-8   	   49502	     25051 ns/op	   25880 B/op	     521 allocs/op
+BenchmarkSQLBuilder-8   	   48140	     24297 ns/op	   25880 B/op	     521 allocs/op
+BenchmarkSQLBuilder-8   	   49080	     24666 ns/op	   25880 B/op	     521 allocs/op
+BenchmarkSQLBuilder-8   	   49093	     24476 ns/op	   25880 B/op	     521 allocs/op
+BenchmarkSQLBuilder-8   	   48900	     24498 ns/op	   25880 B/op	     521 allocs/op
+PASS
+ok  	go-sql-builder-bemchmark	9.290s
